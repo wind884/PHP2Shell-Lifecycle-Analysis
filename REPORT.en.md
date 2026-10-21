@@ -1,6 +1,6 @@
-Before the First Line of PHP: Request Lifecycle Analysis of Two RCE Vulnerabilities
+PHP2Shell: CVE-2026-109618 / CVE-2026-109619
 
-CVE-2026-109618 / CVE-2026-109619
+Before the First Line of PHP: Request Lifecycle Analysis of Two RCE Vulnerabilities
 
 Author: Grayson (wind884)
 

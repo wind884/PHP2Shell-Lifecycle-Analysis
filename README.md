@@ -1,8 +1,8 @@
-PHP2Shell: Before the First Line of PHP
+PHP2Shell: CVE-2026-109618 / CVE-2026-109619
 
-第一行 PHP 执行之前：两项 RCE 漏洞的请求生命周期分析
+PHP RCE 源码审计与补丁分析 / PHP RCE Source Audit and Patch Analysis
 
-CVE-2026-109618 / CVE-2026-109619
+第一行 PHP 执行之前 / Before the First Line of PHP
 
 作者 / Author: Grayson (wind884)
 
